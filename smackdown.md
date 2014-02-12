@@ -59,3 +59,13 @@ Others:
 + Issues: learning curve and trying not to get caught down the rabbit hole of IDE configuration/integration.
 + It costs money, but given the time you spend coding, isn't a better experience and more productivity worth it?
 + It doesn't brew you coffee or make you sandwiches.
+
+##Cool (Mac) shortcuts##
++ Command-Shift-A : Open searchable options/actions menu
++ Command-/ : Comment selected code (regardless of actual comment character)
++ Command-Delete : Delete entire line or all selected lines
++ Command-Shift-F : Find in path (pinnable)
++ Command-e : Open a list of recent files
++ Ctrl-Shift-J : Join next row to this one.
++ Option-F12 : Open terminal
++ Cheat sheet available on [PHPStorm website](http://www.jetbrains.com/phpstorm/documentation/PhpStorm_ReferenceCard.pdf)
