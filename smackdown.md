@@ -1,6 +1,27 @@
 #PHP IDE Smackdown#
 #[PHPStorm](http://www.jetbrains.com/phpstorm/)#
 
+Presenter:
+
++ Ross Larson, developer, Smart Social Media
+
+Background:
+
++ Pretty new to the PHP scene.
++ ITS Degree from FVTC after non-technical double-major in Psychology/French at Luther College.
+
+Other IDEs and editors I've used:
+
++ Vim
++ Eclipse
++ Aptana
++ Visual Studio
++ MonoTouch/Mono for Android
++ Notepad++/SublimeText
++ MS Visual FoxPro IDE
++ MS Access
++ SAP Developer Tools
+
 ###About:###
 + PHPStorm is a JetBrains product.
 
